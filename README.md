@@ -329,9 +329,6 @@ Your Name
 
 Cybersecurity & AI Developer
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 📜 License
 
